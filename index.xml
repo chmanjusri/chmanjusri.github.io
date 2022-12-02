@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://www.infohu.com/</link>
+    <link>http://manjus.xyz/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;http://manjus.xyz/&#34;&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 23 Nov 2022 05:17:15 +0000</lastBuildDate><atom:link href="http://www.infohu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 05:17:15 +0000</lastBuildDate><atom:link href="http://manjus.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>關於我</title>
-      <link>http://www.infohu.com/about/</link>
+      <link>http://manjus.xyz/about/</link>
       <pubDate>Fri, 25 Nov 2022 09:30:34 +0000</pubDate>
       
-      <guid>http://www.infohu.com/about/</guid>
+      <guid>http://manjus.xyz/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>So</title>
-      <link>http://www.infohu.com/posts/so/</link>
+      <link>http://manjus.xyz/posts/so/</link>
       <pubDate>Wed, 23 Nov 2022 05:17:15 +0000</pubDate>
       
-      <guid>http://www.infohu.com/posts/so/</guid>
+      <guid>http://manjus.xyz/posts/so/</guid>
       <description>test </description>
     </item>
     
