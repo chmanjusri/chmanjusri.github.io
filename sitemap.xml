@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.infohu.com/about/</loc>
+    <lastmod>2022-11-25T09:30:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.infohu.com/</loc>
+    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.infohu.com/posts/</loc>
+    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.infohu.com/posts/so/</loc>
+    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.infohu.com/tags/solidity/</loc>
+    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.infohu.com/tags/</loc>
+    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.infohu.com/categories/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on </title>
+        <link>http://www.infohu.com/posts/</link>
+        <description>Recent content in Posts on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;http://manjus.xyz/&#34;&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 23 Nov 2022 05:17:15 +0000</lastBuildDate>
+        <atom:link href="http://www.infohu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>So</title>
+            <link>http://www.infohu.com/posts/so/</link>
+            <pubDate>Wed, 23 Nov 2022 05:17:15 +0000</pubDate>
+            
+            <guid>http://www.infohu.com/posts/so/</guid>
+            <description>test </description>
+            <content type="html"><![CDATA[<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#a6e22e">test</span>
+</code></pre></div>]]></content>
+        </item>
+        
+    </channel>
+</rss>
