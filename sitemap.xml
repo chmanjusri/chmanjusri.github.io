@@ -13,22 +13,22 @@
   </url>
   
   <url>
+    <loc>http://manjus.xyz/tags/life/</loc>
+    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://manjus.xyz/posts/</loc>
     <lastmod>2022-11-23T05:17:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://manjus.xyz/posts/so/</loc>
-    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manjus.xyz/tags/solidity/</loc>
-    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://manjus.xyz/tags/</loc>
+    <lastmod>2022-11-23T05:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manjus.xyz/posts/so/</loc>
     <lastmod>2022-11-23T05:17:15+00:00</lastmod>
   </url>
   
